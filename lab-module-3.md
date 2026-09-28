@@ -1,4 +1,4 @@
-# Lab 3 (Beginner): Merge Requests & Code Review
+# Lab 3 : Merge Requests & Code Review
 
 **Tools:** GitLab.com Free account, Git for Windows, PowerShell
 **Time:** ~60 minutes
