@@ -1,4 +1,4 @@
-# Lab 4 (Beginner): Issues & Project Management
+# Lab 4 : Issues & Project Management
 
 **Tools:** GitLab.com Free account, Git for Windows, PowerShell
 **Time:** ~60 minutes
