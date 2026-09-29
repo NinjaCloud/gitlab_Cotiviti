@@ -1,4 +1,4 @@
-# Lab 5 (Beginner): CI/CD Fundamentals
+# Lab 5 : CI/CD Fundamentals
 
 **Tools:** GitLab.com Free account, Git for Windows, PowerShell
 **Time:** ~60 minutes
