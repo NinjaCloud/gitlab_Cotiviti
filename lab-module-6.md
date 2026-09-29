@@ -1,4 +1,4 @@
-# Lab 6 (Beginner): GitLab Runners
+# Lab 6 : GitLab Runners
 
 **Tools:** GitLab.com Free account, Git for Windows, PowerShell (as **Administrator** for parts of this lab)
 **Time:** ~75 minutes
