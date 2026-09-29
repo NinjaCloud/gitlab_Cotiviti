@@ -252,9 +252,18 @@ Add a manual deploy step:
 ```powershell
 @'
 stages:
+  - setup
   - build
   - test
   - deploy
+
+image: python:3.12
+
+install-python:
+  stage: setup
+  script:
+    - python --version
+    - pip --version
 
 build-job:
   stage: build
