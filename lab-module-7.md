@@ -1,5 +1,10 @@
 # Lab 7 : Advanced Pipeline Configuration
 
+**Tools:** A web browser and a GitLab.com Free account. 
+**Time:** ~75 minutes
+**Goal:** Use variables, caching, artifacts, rules, and parallel/DAG pipelines — all by editing files in the GitLab website.
+
+---
 
 ## What You Will Learn
 
