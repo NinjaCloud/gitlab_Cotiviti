@@ -1,4 +1,4 @@
-# Lab 8 (Beginner, GUI-only): Templates & Reusability
+# Lab 8 : Templates & Reusability
 
 **Tools:** A web browser and a GitLab.com Free account. **No PowerShell, no Git commands, no downloads.**
 **Time:** ~75 minutes
