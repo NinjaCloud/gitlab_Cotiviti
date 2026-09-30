@@ -1,6 +1,6 @@
 # Lab 8 : Templates & Reusability
 
-**Tools:** A web browser and a GitLab.com Free account. **No PowerShell, no Git commands, no downloads.**
+**Tools:** A web browser and a GitLab.com Free account.
 **Time:** ~75 minutes
 **Goal:** Stop repeating yourself in `.gitlab-ci.yml` by using `extends`, YAML anchors, and `include` — then refactor a messy pipeline into a clean one.
 
