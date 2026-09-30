@@ -1,10 +1,5 @@
-# Lab 7 (Beginner, GUI-only): Advanced Pipeline Configuration
+# Lab 7 : Advanced Pipeline Configuration
 
-**Tools:** A web browser and a GitLab.com Free account. **No PowerShell, no Git commands, no downloads.**
-**Time:** ~75 minutes
-**Goal:** Use variables, caching, artifacts, rules, and parallel/DAG pipelines — all by editing files in the GitLab website.
-
----
 
 ## What You Will Learn
 
