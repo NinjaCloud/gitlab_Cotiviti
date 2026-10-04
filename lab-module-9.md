@@ -1,4 +1,4 @@
-# Lab 9 (Beginner, GUI-only): Automated Testing & Security Scanning
+# Lab 9 : Automated Testing & Security Scanning
 
 **Tools:** A web browser and a GitLab.com Free account. **No PowerShell, no Git commands, no downloads.**
 **Time:** ~75 minutes
