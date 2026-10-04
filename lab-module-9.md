@@ -198,15 +198,7 @@ The MR overview page also shows a **Test summary** widget and a coverage figure.
 
 Add a test for `is_odd` to `test_app.py` on the same branch (import it on the first line: `from app import add, divide, is_even, is_odd`, then add `def test_is_odd(): assert is_odd(3) is True`). Commit, and watch the lines turn green.
 
-### 4.4 Coverage badge (optional)
 
-1. Go to **Settings > General > Badges** (expand it).
-2. Click **Add badge**. Name: `coverage`.
-3. **Link:** `https://gitlab.com/%{project_path}/-/commits/%{default_branch}`
-4. **Badge image URL:** `https://gitlab.com/%{project_path}/badges/%{default_branch}/coverage.svg`
-5. Click **Add badge**, then look at your project's main page.
-
-**You should see:** a small coverage badge on the project overview, the kind you often see on open-source projects.
 
 ---
 
