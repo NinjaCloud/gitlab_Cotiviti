@@ -1,4 +1,4 @@
-# Lab 10 (Beginner, GUI-only): Deployment & Environments
+# Lab 10 : Deployment & Environments
 
 **Tools:** A web browser and a GitLab.com Free account. **No PowerShell, no Git commands, no downloads.**
 **Time:** ~75 minutes
