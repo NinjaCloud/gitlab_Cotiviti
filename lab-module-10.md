@@ -195,8 +195,7 @@ Commit with message `Add review app jobs` to `main`.
 ### 3.3 Find the review app
 
 1. In the merge request, wait for the pipeline to finish.
-2. Look for the **deployment** line in the merge request page, with a **View app** button.
-3. Also check **Operate > Environments**.
+2. check **Operate > Environments**.
 
 **You should see:** a new environment named `review/change-heading` next to `staging`. Click **View app** (or **Open**), then `index.html`.
 
