@@ -1,4 +1,4 @@
-# Lab 11 (Beginner): Auto DevOps & Kubernetes Integration
+# Lab 11 : Auto DevOps & Kubernetes Integration
 
 **Tools:** A web browser, a GitLab.com Free account, a free Docker Hub account, and the free Killercoda Kubernetes playground. **Nothing to install on your computer.**
 **Time:** ~90 minutes
