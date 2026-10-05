@@ -1,4 +1,4 @@
-# Lab 12 (Beginner, GUI-only): GitLab Administration & Best Practices
+# Lab 12 : GitLab Administration & Best Practices
 
 **Tools:** A web browser and a GitLab.com Free account. A second GitLab account is helpful but optional. You will also use the free website https://webhook.site.
 **Time:** ~90 minutes
